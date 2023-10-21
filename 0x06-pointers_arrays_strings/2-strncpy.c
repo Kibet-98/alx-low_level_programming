@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
   * _strncpy - The main function of the code
